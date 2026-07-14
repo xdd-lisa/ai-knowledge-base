@@ -1,0 +1,20 @@
+{
+  "id": "d0e1f2a3-b4c5-6789-defa-890123456789",
+  "title": "simonlin1212/Vibe-Research",
+  "url": "https://github.com/simonlin1212/Vibe-Research",
+  "source": "github_trending",
+  "popularity": 796,
+  "summary": "个人 AI 投研看板，覆盖 A 股/美股/港股的每日复盘、资讯雷达、个股分析、板块轮动和持仓管理。自带三套数据源（A-Stock-Data 40 端点、Global-Stock-Data 18 端点、Investment-News 108 个 RSS 源），git clone 后开箱即用。前端 React 19 + FastAPI 后端，提供三种 AI 接入方式：订阅接入（复用本机 CLI 免 key）、API 接入（OpenAI 兼容 function-calling）、MCP 接入（给 Claude Code 等 Agent）。数据只存本地，不上传。遵循合规要求，不荐股不预测。",
+  "highlights": [
+    "三套完整数据源直接入库，git clone 即开箱可用，零第三方数据依赖",
+    "三种 AI 接入方式（CLI 订阅/API/MCP），支持任意 LLM，灵活性极高",
+    "纯本地架构，持仓/研报/API Key 均不上传，数据隐私合规性好"
+  ],
+  "score": 5,
+  "score_reason": "个人投资研究场景的精品项目，数据集成和 AI 接入设计值得参考，但与 AI 知识库建设方向差异较大",
+  "tags": ["Agent", "Tool"],
+  "status": "draft",
+  "collected_at": "2026-07-14T00:00:00+08:00",
+  "analyzed_at": "2026-07-14T00:00:00+08:00",
+  "organized_at": "2026-07-14T18:00:00+08:00"
+}

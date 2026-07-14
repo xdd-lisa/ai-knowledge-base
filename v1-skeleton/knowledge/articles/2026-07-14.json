@@ -1,0 +1,162 @@
+[
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github_trending",
+    "popularity": 214548,
+    "summary": "NousResearch 推出的自我进化 AI 代理框架，核心差异化在于内置闭环学习机制——能从经验中自动创建技能、跨会话持久记忆、自我优化工具调用。支持 Telegram/Discord/Slack/WhatsApp 等全平台消息网关、完整 TUI 终端、定时任务调度、子代理并行执行。可部署在本地、Docker、SSH、Modal 等六种后端，最低仅需 $5 VPS。兼容 OpenRouter/OpenAI/自建端点等任意 LLM，提供 Nous Portal 一站式订阅。含轨迹生成与压缩能力，支持训练下一代工具调用模型。",
+    "highlights": [
+      "内置闭环学习回路，自动从经验中创建和优化技能，而非静态工具链",
+      "多平台消息网关（Telegram/Discord/Slack/WhatsApp/Signal）统一后端，单进程管理",
+      "六种终端后端支持，含 Modal/Daytona 无服务器架构，闲置接近零成本"
+    ],
+    "score": 9,
+    "score_reason": "自我进化代理是 Agent 领域的前沿方向，Hermes 首次将技能闭环学习工程化落地，215k Star 验证了其影响力，可直接影响 AI 代理架构设计方向",
+    "tags": ["Agent", "LLM", "Tool"],
+    "analyzed_at": "2026-07-14T00:00:00+08:00"
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github_trending",
+    "popularity": 185522,
+    "summary": "AutoGPT 是最早的自主 AI 代理框架之一，已演进为完整的代理构建和部署平台。提供低代码 Agent Builder、可视化工作流编排、预置代理市场。后端支持 Docker 部署，前端实现代理全生命周期管理（构建→测试→部署→监控）。包含 Forge 工具包用于自定义代理开发、agbenchmark 基准测试框架。平台版本采用 Polyform Shield 许可，经典版仍为 MIT 开源。集成了 Agent Protocol 标准以实现前端/基准测试/代理之间的互操作。",
+    "highlights": [
+      "提供完整的低代码 Agent Builder 与可视化工作流编排，降低构建门槛",
+      "包含 agbenchmark 标准化测试框架和 Forge 代理开发工具包",
+      "Agent Protocol 标准化协议，确保不同代理组件间的互操作性"
+    ],
+    "score": 8,
+    "score_reason": "AutoGPT 是自主 Agent 领域的开创者，平台化演进方向正确，低代码构建对研发有直接参考价值，但架构复杂度较高，生产化定制成本不低",
+    "tags": ["Agent", "Tool", "Infra"],
+    "analyzed_at": "2026-07-14T00:00:00+08:00"
+  },
+  {
+    "title": "f/prompts.chat",
+    "url": "https://github.com/f/prompts.chat",
+    "source": "github_trending",
+    "popularity": 165681,
+    "summary": "全球最大的开源提示词库（原名 Awesome ChatGPT Prompts），收录数百条高质量 ChatGPT/Claude/Gemini 等模型提示词。提供交互式浏览网站、Prompt Engineering 电子书（25+ 章节，涵盖 Chain-of-Thought、Few-shot 等高级技巧）、儿童 AI 编程教育游戏。支持 Docker 自托管部署，含自定义品牌、主题和认证体系。提供 MCP Server 和 Claude Code 插件，可集成到任意 AI 工具链。被 Forbes、Harvard、Columbia 等引用，Hugging Face 最受欢迎数据集。",
+    "highlights": [
+      "全球最大开源提示词库，143k+ Star，被 Forbes 和顶级高校引用",
+      "提供 25+ 章节的 Prompt Engineering 交互式电子书，含高级推理技术",
+      "MCP Server + Claude Code 插件双集成，可嵌入任意 AI Agent 工具链"
+    ],
+    "score": 6,
+    "score_reason": "提示词库和工程指南有很好参考价值，但与 AI 知识库建设的直接相关性有限，属于辅助性工具而非核心技术资产",
+    "tags": ["LLM", "Tool"],
+    "analyzed_at": "2026-07-14T00:00:00+08:00"
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github_trending",
+    "popularity": 150637,
+    "summary": "面向 AI Agent 的开源网页抓取 API，覆盖 96% 网页（含 JS 密集型页面），P95 延迟 3.4s。核心功能包括：Search（搜索并返回完整页面内容）、Scrape（URL 转 Markdown/JSON/截图）、Crawl（全站批量爬取）、Map（即时发现站点 URL 结构）、Interact（点击/滚动/输入等页面交互）、Agent（自然语言描述即可自动采集数据）。支持 Python/Node.js/Go/Java 等 10+ SDK，提供 MCP Server 和 CLI 技能集成，输出 LLM 友好的 Markdown 格式。",
+    "highlights": [
+      "96% 网页覆盖率 + P95 3.4s 延迟，工业级可靠性，支持 JS 渲染和动态交互",
+      "提供 Agent 端点—只用自然语言描述需求即可自动采集数据，无需指定 URL",
+      "MCP Server + CLI Skill 双集成，可无缝接入任意 AI Agent 数据管道"
+    ],
+    "score": 8,
+    "score_reason": "数据采集是 RAG 知识库的基础设施，Firecrawl 的可靠性、LLM 友好输出和 Agent 集成能力可直接降低知识库构建的工程成本",
+    "tags": ["RAG", "Tool", "Infra"],
+    "analyzed_at": "2026-07-14T00:00:00+08:00"
+  },
+  {
+    "title": "langgenius/dify",
+    "url": "https://github.com/langgenius/dify",
+    "source": "github_trending",
+    "popularity": 148785,
+    "summary": "生产级 LLM 应用开发平台，提供可视化 AI 工作流编排、RAG Pipeline（PDF/PPT 等文档解析→检索）、Agent 能力（Function Calling/ReAct + 50+ 内置工具）、Prompt IDE（提示词调试与模型对比）、LLMOps（日志/性能/标注分析）、Backend-as-a-Service（全功能 API）。支持 GPT/Mistral/Llama3 等数百种模型，集成 Opik/Langfuse 等可观测性工具。Docker Compose 一键部署（2核4G最低要求），含 Grafana 监控面板。",
+    "highlights": [
+      "可视化工作流编排 + RAG Pipeline + Agent 能力三位一体，覆盖 AI 应用全生命周期",
+      "50+ 内置工具和数百种模型支持，Prompt IDE 实现提示词→生产一键切换",
+      "全功能 BaaS API，前端可直接调用后端能力，大幅降低 AI 应用开发门槛"
+    ],
+    "score": 8,
+    "score_reason": "Dify 是当前最成熟的生产级 LLM 应用平台之一，RAG 和 Agent 能力可直接用于知识库建设，降低自研基础设施成本",
+    "tags": ["RAG", "Agent", "Infra", "LLM"],
+    "analyzed_at": "2026-07-14T00:00:00+08:00"
+  },
+  {
+    "title": "open-webui/open-webui",
+    "url": "https://github.com/open-webui/open-webui",
+    "source": "github_trending",
+    "popularity": 145369,
+    "summary": "功能丰富的开源自托管 AI 聊天界面，支持 Ollama/OpenAI API 等任意兼容后端。核心能力包括：RAG（9 种向量数据库 + 混合搜索 BM25+向量）、Web 搜索（20+ 搜索引擎插件）、多模态对话、图像生成（DALL·E/ComfyUI/Stable Diffusion）、语音/视频通话、Agent 与工具系统（MCP/MCPO/OpenAPI 插件）、持久记忆、频道协作、日历与调度自动化。支持 RBAC 权限管理、LDAP/SSO/SCIM 企业认证、OpenTelemetry 可观测性、水平扩展（Redis + WebSocket）。",
+    "highlights": [
+      "功能极其全面——RAG、Multi-Modal、Agent、插件系统、语音视频、RBAC 一体",
+      "企业级认证（LDAP/SSO/SCIM）+ 水平扩展（Redis+WebSocket）+ OpenTelemetry",
+      "9 种向量数据库 + 20+ 搜索引擎 + Docker/pip/Helm 多方式部署，生态成熟"
+    ],
+    "score": 7,
+    "score_reason": "Open WebUI 是自托管 AI 界面的事实标准，RAG 和多模态功能可直接服务于知识库前端展示，但核心是 UI 层而非知识管理后端",
+    "tags": ["RAG", "Multi-modal", "Infra", "LLM"],
+    "analyzed_at": "2026-07-14T00:00:00+08:00"
+  },
+  {
+    "title": "langchain-ai/langchain",
+    "url": "https://github.com/langchain-ai/langchain",
+    "source": "github_trending",
+    "popularity": 141737,
+    "summary": "业界最广泛使用的 LLM 应用工程化框架，提供标准化的模型/嵌入/向量存储接口抽象。核心能力包括：Chain（链式调用组合）、Agent（ReAct/Function Calling 代理）、RAG（文档加载→分割→嵌入→检索全链路）、Tool（丰富第三方工具集成）。配合 LangGraph 实现可控 Agent 工作流，LangSmith 提供可观测性和调试。支持 Python/TypeScript 双语言，拥有最大社区生态和第三方集成库。近期推出 Deep Agents 高级封装，内置规划、子代理、文件系统等通用模式。",
+    "highlights": [
+      "最大 LLM 框架生态，142k Star + 23.5k Fork，社区和第三方集成无人能及",
+      "LangChain + LangGraph + LangSmith + LangServe 全家桶，覆盖开发→调试→部署全链路",
+      "模型互操作抽象层，切换模型无需修改业务代码，降低供应商锁定风险"
+    ],
+    "score": 8,
+    "score_reason": "LangChain 是 LLM 应用的底层基础设施，RAG/Agent 组件是知识库建设的核心依赖，成熟的生态可大幅降低研发成本",
+    "tags": ["RAG", "Agent", "LLM", "Infra"],
+    "analyzed_at": "2026-07-14T00:00:00+08:00"
+  },
+  {
+    "title": "rasbt/LLMs-from-scratch",
+    "url": "https://github.com/rasbt/LLMs-from-scratch",
+    "source": "github_trending",
+    "popularity": 48388,
+    "summary": "Sebastian Raschka 撰写的配套 Manning 出版书籍的代码仓库，从零实现类 ChatGPT 大语言模型。涵盖文本分词（含 BPE 从零实现）、Attention 机制（多头注意力/MHA/MQA/SWA/Multi-Head Latent Attention）、GPT 架构实现、预训练、文本分类微调、指令微调（含 DPO 对齐）。附录含 PyTorch 入门和 LoRA 高效微调。扩展章节覆盖 Llama 3.2/Qwen3/Gemma 3/Olmo 3 等主流架构从零实现，以及 GRPO 强化学习推理。99k Star 验证了其教育价值。",
+    "highlights": [
+      "从零逐行实现 ChatGPT 类 LLM，配合 Manning 出版书籍，理论+实践结合最深入的教程",
+      "覆盖 7 种主流架构从零实现（Llama 3.2/Qwen3/Gemma 3 等），远超同类教学项目",
+      "附录含 LoRA 高效微调、DPO 对齐、GRPO 强化学习推理等前沿技术实现"
+    ],
+    "score": 6,
+    "score_reason": "极优秀的 LLM 教学资源，对理解 Transformer 架构有重要价值，但与知识库建设的直接需求关联度一般",
+    "tags": ["LLM", "Fine-tune", "NLP"],
+    "analyzed_at": "2026-07-14T00:00:00+08:00"
+  },
+  {
+    "title": "synthetic-sciences/openscience",
+    "url": "https://github.com/synthetic-sciences/openscience",
+    "source": "github_trending",
+    "popularity": 2388,
+    "summary": "开源 AI 科研工作台，面向科学研究全流程：文献综述→假设形成→编写代码→运行实验→撰写报告。内置 290+ 科研技能（DeepSpeed/PEFT/TRL 训练、分子生物学、化学信息学、LaTeX 撰写等），集成 30+ 科学数据库工具（UniProt/PDB/PubMed/arXiv/Semantic Scholar 等）。提供浏览器内工作区（文件树+编辑器+终端），支持分子/结构/基因组/图表内联渲染。模型无关，支持 Anthropic/OpenAI/Google 等任意提供商，自带免费 demo 模型。",
+    "highlights": [
+      "覆盖科研全闭环——文献→假设→实验→分析→写作，290+ 专业技能开箱即用",
+      "集成 30+ 科学数据库（UniProt/PDB/ChEMBL/PubMed/arXiv），Agent 可直接查询",
+      "浏览器内工作区含文件树+编辑器+终端，分子结构/基因组等科学可视化内联渲染"
+    ],
+    "score": 5,
+    "score_reason": "科研场景专用 AI 工作台，设计精良但领域限定性强，与通用 AI 知识库建设的相关性较低",
+    "tags": ["Agent", "Tool"],
+    "analyzed_at": "2026-07-14T00:00:00+08:00"
+  },
+  {
+    "title": "simonlin1212/Vibe-Research",
+    "url": "https://github.com/simonlin1212/Vibe-Research",
+    "source": "github_trending",
+    "popularity": 796,
+    "summary": "个人 AI 投研看板，覆盖 A 股/美股/港股的每日复盘、资讯雷达、个股分析、板块轮动和持仓管理。自带三套数据源（A-Stock-Data 40 端点、Global-Stock-Data 18 端点、Investment-News 108 个 RSS 源），git clone 后开箱即用。前端 React 19 + FastAPI 后端，提供三种 AI 接入方式：订阅接入（复用本机 CLI 免 key）、API 接入（OpenAI 兼容 function-calling）、MCP 接入（给 Claude Code 等 Agent）。数据只存本地，不上传。遵循合规要求，不荐股不预测。",
+    "highlights": [
+      "三套完整数据源直接入库，git clone 即开箱可用，零第三方数据依赖",
+      "三种 AI 接入方式（CLI 订阅/API/MCP），支持任意 LLM，灵活性极高",
+      "纯本地架构，持仓/研报/API Key 均不上传，数据隐私合规性好"
+    ],
+    "score": 5,
+    "score_reason": "个人投资研究场景的精品项目，数据集成和 AI 接入设计值得参考，但与 AI 知识库建设方向差异较大",
+    "tags": ["Agent", "Tool"],
+    "analyzed_at": "2026-07-14T00:00:00+08:00"
+  }
+]

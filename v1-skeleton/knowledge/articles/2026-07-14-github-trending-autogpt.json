@@ -1,0 +1,20 @@
+{
+  "id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+  "title": "Significant-Gravitas/AutoGPT",
+  "url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "source": "github_trending",
+  "popularity": 185522,
+  "summary": "AutoGPT 是最早的自主 AI 代理框架之一，已演进为完整的代理构建和部署平台。提供低代码 Agent Builder、可视化工作流编排、预置代理市场。后端支持 Docker 部署，前端实现代理全生命周期管理（构建→测试→部署→监控）。包含 Forge 工具包用于自定义代理开发、agbenchmark 基准测试框架。平台版本采用 Polyform Shield 许可，经典版仍为 MIT 开源。集成了 Agent Protocol 标准以实现前端/基准测试/代理之间的互操作。",
+  "highlights": [
+    "提供完整的低代码 Agent Builder 与可视化工作流编排，降低构建门槛",
+    "包含 agbenchmark 标准化测试框架和 Forge 代理开发工具包",
+    "Agent Protocol 标准化协议，确保不同代理组件间的互操作性"
+  ],
+  "score": 8,
+  "score_reason": "AutoGPT 是自主 Agent 领域的开创者，平台化演进方向正确，低代码构建对研发有直接参考价值，但架构复杂度较高，生产化定制成本不低",
+  "tags": ["Agent", "Tool", "Infra"],
+  "status": "draft",
+  "collected_at": "2026-07-14T00:00:00+08:00",
+  "analyzed_at": "2026-07-14T00:00:00+08:00",
+  "organized_at": "2026-07-14T18:00:00+08:00"
+}

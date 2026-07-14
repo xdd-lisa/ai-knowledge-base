@@ -1,0 +1,20 @@
+{
+  "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "title": "NousResearch/hermes-agent",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "source": "github_trending",
+  "popularity": 214548,
+  "summary": "NousResearch 推出的自我进化 AI 代理框架，核心差异化在于内置闭环学习机制——能从经验中自动创建技能、跨会话持久记忆、自我优化工具调用。支持 Telegram/Discord/Slack/WhatsApp 等全平台消息网关、完整 TUI 终端、定时任务调度、子代理并行执行。可部署在本地、Docker、SSH、Modal 等六种后端，最低仅需 $5 VPS。兼容 OpenRouter/OpenAI/自建端点等任意 LLM，提供 Nous Portal 一站式订阅。含轨迹生成与压缩能力，支持训练下一代工具调用模型。",
+  "highlights": [
+    "内置闭环学习回路，自动从经验中创建和优化技能，而非静态工具链",
+    "多平台消息网关（Telegram/Discord/Slack/WhatsApp/Signal）统一后端，单进程管理",
+    "六种终端后端支持，含 Modal/Daytona 无服务器架构，闲置接近零成本"
+  ],
+  "score": 9,
+  "score_reason": "自我进化代理是 Agent 领域的前沿方向，Hermes 首次将技能闭环学习工程化落地，215k Star 验证了其影响力，可直接影响 AI 代理架构设计方向",
+  "tags": ["Agent", "LLM", "Tool"],
+  "status": "published",
+  "collected_at": "2026-07-14T00:00:00+08:00",
+  "analyzed_at": "2026-07-14T00:00:00+08:00",
+  "organized_at": "2026-07-14T18:00:00+08:00"
+}

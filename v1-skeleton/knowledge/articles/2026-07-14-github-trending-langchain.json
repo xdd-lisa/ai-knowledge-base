@@ -1,0 +1,20 @@
+{
+  "id": "a7b8c9d0-e1f2-3456-abcd-567890123456",
+  "title": "langchain-ai/langchain",
+  "url": "https://github.com/langchain-ai/langchain",
+  "source": "github_trending",
+  "popularity": 141737,
+  "summary": "业界最广泛使用的 LLM 应用工程化框架，提供标准化的模型/嵌入/向量存储接口抽象。核心能力包括：Chain（链式调用组合）、Agent（ReAct/Function Calling 代理）、RAG（文档加载→分割→嵌入→检索全链路）、Tool（丰富第三方工具集成）。配合 LangGraph 实现可控 Agent 工作流，LangSmith 提供可观测性和调试。支持 Python/TypeScript 双语言，拥有最大社区生态和第三方集成库。近期推出 Deep Agents 高级封装，内置规划、子代理、文件系统等通用模式。",
+  "highlights": [
+    "最大 LLM 框架生态，142k Star + 23.5k Fork，社区和第三方集成无人能及",
+    "LangChain + LangGraph + LangSmith + LangServe 全家桶，覆盖开发→调试→部署全链路",
+    "模型互操作抽象层，切换模型无需修改业务代码，降低供应商锁定风险"
+  ],
+  "score": 8,
+  "score_reason": "LangChain 是 LLM 应用的底层基础设施，RAG/Agent 组件是知识库建设的核心依赖，成熟的生态可大幅降低研发成本",
+  "tags": ["RAG", "Agent", "LLM", "Infra"],
+  "status": "draft",
+  "collected_at": "2026-07-14T00:00:00+08:00",
+  "analyzed_at": "2026-07-14T00:00:00+08:00",
+  "organized_at": "2026-07-14T18:00:00+08:00"
+}

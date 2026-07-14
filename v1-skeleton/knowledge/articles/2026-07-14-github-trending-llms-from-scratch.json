@@ -1,0 +1,20 @@
+{
+  "id": "b8c9d0e1-f2a3-4567-bcde-678901234567",
+  "title": "rasbt/LLMs-from-scratch",
+  "url": "https://github.com/rasbt/LLMs-from-scratch",
+  "source": "github_trending",
+  "popularity": 48388,
+  "summary": "Sebastian Raschka 撰写的配套 Manning 出版书籍的代码仓库，从零实现类 ChatGPT 大语言模型。涵盖文本分词（含 BPE 从零实现）、Attention 机制（多头注意力/MHA/MQA/SWA/Multi-Head Latent Attention）、GPT 架构实现、预训练、文本分类微调、指令微调（含 DPO 对齐）。附录含 PyTorch 入门和 LoRA 高效微调。扩展章节覆盖 Llama 3.2/Qwen3/Gemma 3/Olmo 3 等主流架构从零实现，以及 GRPO 强化学习推理。99k Star 验证了其教育价值。",
+  "highlights": [
+    "从零逐行实现 ChatGPT 类 LLM，配合 Manning 出版书籍，理论+实践结合最深入的教程",
+    "覆盖 7 种主流架构从零实现（Llama 3.2/Qwen3/Gemma 3 等），远超同类教学项目",
+    "附录含 LoRA 高效微调、DPO 对齐、GRPO 强化学习推理等前沿技术实现"
+  ],
+  "score": 6,
+  "score_reason": "极优秀的 LLM 教学资源，对理解 Transformer 架构有重要价值，但与知识库建设的直接需求关联度一般",
+  "tags": ["LLM", "Fine-tune", "NLP"],
+  "status": "draft",
+  "collected_at": "2026-07-14T00:00:00+08:00",
+  "analyzed_at": "2026-07-14T00:00:00+08:00",
+  "organized_at": "2026-07-14T18:00:00+08:00"
+}

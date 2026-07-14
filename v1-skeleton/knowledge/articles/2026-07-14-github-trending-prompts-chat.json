@@ -1,0 +1,20 @@
+{
+  "id": "c3d4e5f6-a7b8-9012-cdef-123456789012",
+  "title": "f/prompts.chat",
+  "url": "https://github.com/f/prompts.chat",
+  "source": "github_trending",
+  "popularity": 165681,
+  "summary": "全球最大的开源提示词库（原名 Awesome ChatGPT Prompts），收录数百条高质量 ChatGPT/Claude/Gemini 等模型提示词。提供交互式浏览网站、Prompt Engineering 电子书（25+ 章节，涵盖 Chain-of-Thought、Few-shot 等高级技巧）、儿童 AI 编程教育游戏。支持 Docker 自托管部署，含自定义品牌、主题和认证体系。提供 MCP Server 和 Claude Code 插件，可集成到任意 AI 工具链。被 Forbes、Harvard、Columbia 等引用，Hugging Face 最受欢迎数据集。",
+  "highlights": [
+    "全球最大开源提示词库，143k+ Star，被 Forbes 和顶级高校引用",
+    "提供 25+ 章节的 Prompt Engineering 交互式电子书，含高级推理技术",
+    "MCP Server + Claude Code 插件双集成，可嵌入任意 AI Agent 工具链"
+  ],
+  "score": 6,
+  "score_reason": "提示词库和工程指南有很好参考价值，但与 AI 知识库建设的直接相关性有限，属于辅助性工具而非核心技术资产",
+  "tags": ["LLM", "Tool"],
+  "status": "draft",
+  "collected_at": "2026-07-14T00:00:00+08:00",
+  "analyzed_at": "2026-07-14T00:00:00+08:00",
+  "organized_at": "2026-07-14T18:00:00+08:00"
+}

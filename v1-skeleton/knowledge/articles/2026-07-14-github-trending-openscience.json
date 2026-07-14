@@ -1,0 +1,20 @@
+{
+  "id": "c9d0e1f2-a3b4-5678-cdef-789012345678",
+  "title": "synthetic-sciences/openscience",
+  "url": "https://github.com/synthetic-sciences/openscience",
+  "source": "github_trending",
+  "popularity": 2388,
+  "summary": "开源 AI 科研工作台，面向科学研究全流程：文献综述→假设形成→编写代码→运行实验→撰写报告。内置 290+ 科研技能（DeepSpeed/PEFT/TRL 训练、分子生物学、化学信息学、LaTeX 撰写等），集成 30+ 科学数据库工具（UniProt/PDB/PubMed/arXiv/Semantic Scholar 等）。提供浏览器内工作区（文件树+编辑器+终端），支持分子/结构/基因组/图表内联渲染。模型无关，支持 Anthropic/OpenAI/Google 等任意提供商，自带免费 demo 模型。",
+  "highlights": [
+    "覆盖科研全闭环——文献→假设→实验→分析→写作，290+ 专业技能开箱即用",
+    "集成 30+ 科学数据库（UniProt/PDB/ChEMBL/PubMed/arXiv），Agent 可直接查询",
+    "浏览器内工作区含文件树+编辑器+终端，分子结构/基因组等科学可视化内联渲染"
+  ],
+  "score": 5,
+  "score_reason": "科研场景专用 AI 工作台，设计精良但领域限定性强，与通用 AI 知识库建设的相关性较低",
+  "tags": ["Agent", "Tool"],
+  "status": "draft",
+  "collected_at": "2026-07-14T00:00:00+08:00",
+  "analyzed_at": "2026-07-14T00:00:00+08:00",
+  "organized_at": "2026-07-14T18:00:00+08:00"
+}

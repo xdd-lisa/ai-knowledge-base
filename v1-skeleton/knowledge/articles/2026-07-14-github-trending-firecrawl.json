@@ -1,0 +1,20 @@
+{
+  "id": "d4e5f6a7-b8c9-0123-defa-234567890123",
+  "title": "firecrawl/firecrawl",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "source": "github_trending",
+  "popularity": 150637,
+  "summary": "面向 AI Agent 的开源网页抓取 API，覆盖 96% 网页（含 JS 密集型页面），P95 延迟 3.4s。核心功能包括：Search（搜索并返回完整页面内容）、Scrape（URL 转 Markdown/JSON/截图）、Crawl（全站批量爬取）、Map（即时发现站点 URL 结构）、Interact（点击/滚动/输入等页面交互）、Agent（自然语言描述即可自动采集数据）。支持 Python/Node.js/Go/Java 等 10+ SDK，提供 MCP Server 和 CLI 技能集成，输出 LLM 友好的 Markdown 格式。",
+  "highlights": [
+    "96% 网页覆盖率 + P95 3.4s 延迟，工业级可靠性，支持 JS 渲染和动态交互",
+    "提供 Agent 端点—只用自然语言描述需求即可自动采集数据，无需指定 URL",
+    "MCP Server + CLI Skill 双集成，可无缝接入任意 AI Agent 数据管道"
+  ],
+  "score": 8,
+  "score_reason": "数据采集是 RAG 知识库的基础设施，Firecrawl 的可靠性、LLM 友好输出和 Agent 集成能力可直接降低知识库构建的工程成本",
+  "tags": ["RAG", "Tool", "Infra"],
+  "status": "draft",
+  "collected_at": "2026-07-14T00:00:00+08:00",
+  "analyzed_at": "2026-07-14T00:00:00+08:00",
+  "organized_at": "2026-07-14T18:00:00+08:00"
+}

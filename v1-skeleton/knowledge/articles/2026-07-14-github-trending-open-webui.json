@@ -1,0 +1,20 @@
+{
+  "id": "f6a7b8c9-d0e1-2345-fabc-456789012345",
+  "title": "open-webui/open-webui",
+  "url": "https://github.com/open-webui/open-webui",
+  "source": "github_trending",
+  "popularity": 145369,
+  "summary": "功能丰富的开源自托管 AI 聊天界面，支持 Ollama/OpenAI API 等任意兼容后端。核心能力包括：RAG（9 种向量数据库 + 混合搜索 BM25+向量）、Web 搜索（20+ 搜索引擎插件）、多模态对话、图像生成（DALL·E/ComfyUI/Stable Diffusion）、语音/视频通话、Agent 与工具系统（MCP/MCPO/OpenAPI 插件）、持久记忆、频道协作、日历与调度自动化。支持 RBAC 权限管理、LDAP/SSO/SCIM 企业认证、OpenTelemetry 可观测性、水平扩展（Redis + WebSocket）。",
+  "highlights": [
+    "功能极其全面——RAG、Multi-Modal、Agent、插件系统、语音视频、RBAC 一体",
+    "企业级认证（LDAP/SSO/SCIM）+ 水平扩展（Redis+WebSocket）+ OpenTelemetry",
+    "9 种向量数据库 + 20+ 搜索引擎 + Docker/pip/Helm 多方式部署，生态成熟"
+  ],
+  "score": 7,
+  "score_reason": "Open WebUI 是自托管 AI 界面的事实标准，RAG 和多模态功能可直接服务于知识库前端展示，但核心是 UI 层而非知识管理后端",
+  "tags": ["RAG", "Multi-modal", "Infra", "LLM"],
+  "status": "draft",
+  "collected_at": "2026-07-14T00:00:00+08:00",
+  "analyzed_at": "2026-07-14T00:00:00+08:00",
+  "organized_at": "2026-07-14T18:00:00+08:00"
+}

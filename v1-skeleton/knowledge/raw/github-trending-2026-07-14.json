@@ -1,0 +1,72 @@
+[
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github_trending",
+    "popularity": 214548,
+    "summary": "NousResearch 开发的开源 AI 代理框架，支持多种 LLM 后端，提供自主任务执行和工具调用能力"
+  },
+  {
+    "title": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source": "github_trending",
+    "popularity": 185522,
+    "summary": "让 AI 自主完成任务的智能代理框架，支持 GPT-4 驱动，可自动分解并执行复杂多步骤目标"
+  },
+  {
+    "title": "f/prompts.chat",
+    "url": "https://github.com/f/prompts.chat",
+    "source": "github_trending",
+    "popularity": 165681,
+    "summary": "ChatGPT 提示词社区，支持分享、发现和收藏 AI 提示词，开源可自托管保障隐私"
+  },
+  {
+    "title": "firecrawl/firecrawl",
+    "url": "https://github.com/firecrawl/firecrawl",
+    "source": "github_trending",
+    "popularity": 150637,
+    "summary": "面向 AI Agent 的网页抓取 API，支持搜索、爬取和数据提取，输出为 LLM 友好的 Markdown 格式"
+  },
+  {
+    "title": "langgenius/dify",
+    "url": "https://github.com/langgenius/dify",
+    "source": "github_trending",
+    "popularity": 148785,
+    "summary": "生产级 AI 应用开发平台，支持可视化编排 Agent 工作流，集成 RAG、MCP 和多种 LLM"
+  },
+  {
+    "title": "open-webui/open-webui",
+    "url": "https://github.com/open-webui/open-webui",
+    "source": "github_trending",
+    "popularity": 145369,
+    "summary": "用户友好的 AI 聊天界面，支持 Ollama 和 OpenAI API，可自部署并内置 RAG 和多模态功能"
+  },
+  {
+    "title": "langchain-ai/langchain",
+    "url": "https://github.com/langchain-ai/langchain",
+    "source": "github_trending",
+    "popularity": 141737,
+    "summary": "构建 LLM 应用的工程化框架，支持 Agent、RAG、链式调用和多模型集成，Python/TS 双语言"
+  },
+  {
+    "title": "rasbt/LLMs-from-scratch",
+    "url": "https://github.com/rasbt/LLMs-from-scratch",
+    "source": "github_trending",
+    "popularity": 48388,
+    "summary": "从零实现 ChatGPT 类大语言模型的 PyTorch 教程，逐行代码讲解 Transformer 架构训练全过程"
+  },
+  {
+    "title": "synthetic-sciences/openscience",
+    "url": "https://github.com/synthetic-sciences/openscience",
+    "source": "github_trending",
+    "popularity": 2388,
+    "summary": "开源 AI 科研工作台，7月发布即获近 2400 Star，面向科学研究的 AI Agent 协作平台"
+  },
+  {
+    "title": "simonlin1212/Vibe-Research",
+    "url": "https://github.com/simonlin1212/Vibe-Research",
+    "source": "github_trending",
+    "popularity": 796,
+    "summary": "个人投研 AI Agent，覆盖 A股/美股/港股的每日复盘、资讯雷达和个股数据分析"
+  }
+]

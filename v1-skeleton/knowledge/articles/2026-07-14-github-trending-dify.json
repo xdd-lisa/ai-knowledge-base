@@ -1,0 +1,20 @@
+{
+  "id": "e5f6a7b8-c9d0-1234-efab-345678901234",
+  "title": "langgenius/dify",
+  "url": "https://github.com/langgenius/dify",
+  "source": "github_trending",
+  "popularity": 148785,
+  "summary": "生产级 LLM 应用开发平台，提供可视化 AI 工作流编排、RAG Pipeline（PDF/PPT 等文档解析→检索）、Agent 能力（Function Calling/ReAct + 50+ 内置工具）、Prompt IDE（提示词调试与模型对比）、LLMOps（日志/性能/标注分析）、Backend-as-a-Service（全功能 API）。支持 GPT/Mistral/Llama3 等数百种模型，集成 Opik/Langfuse 等可观测性工具。Docker Compose 一键部署（2核4G最低要求），含 Grafana 监控面板。",
+  "highlights": [
+    "可视化工作流编排 + RAG Pipeline + Agent 能力三位一体，覆盖 AI 应用全生命周期",
+    "50+ 内置工具和数百种模型支持，Prompt IDE 实现提示词→生产一键切换",
+    "全功能 BaaS API，前端可直接调用后端能力，大幅降低 AI 应用开发门槛"
+  ],
+  "score": 8,
+  "score_reason": "Dify 是当前最成熟的生产级 LLM 应用平台之一，RAG 和 Agent 能力可直接用于知识库建设，降低自研基础设施成本",
+  "tags": ["RAG", "Agent", "Infra", "LLM"],
+  "status": "draft",
+  "collected_at": "2026-07-14T00:00:00+08:00",
+  "analyzed_at": "2026-07-14T00:00:00+08:00",
+  "organized_at": "2026-07-14T18:00:00+08:00"
+}
