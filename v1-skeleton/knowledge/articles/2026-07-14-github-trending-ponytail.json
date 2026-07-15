@@ -1,0 +1,20 @@
+{
+  "id": "e1f2a3b4-c5d6-7890-efab-1234567890ab",
+  "title": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "source": "github_trending",
+  "popularity": 83221,
+  "summary": "YAGNI 驱动的 AI 编码优化器，让 Agent 产出最小必要代码。内置 7 阶决策梯，54% 代码缩减 + 20% 成本降低 + 27% 速度提升，83k Star 一个月爆发验证需求真实。支持 Claude Code/Codex/OpenCode/Hermes 等 15+ Agent 平台，MIT 开源。",
+  "highlights": [
+    "54% 代码量缩减 + 20% 成本降低 + 27% 速度提升，83k Star 快速爆发",
+    "7 阶决策梯（YAGNI→复用→标准库→原生→依赖→一行→最小实现），100% 安全",
+    "支持 Claude Code/Codex/OpenCode/Gemini/Hermes 等 15+ Agent 平台"
+  ],
+  "score": 8,
+  "score_reason": "直击 AI 编码成本和质量痛点，83k Star 一个月爆发验证需求真实，可直接降低知识库代码开发成本",
+  "tags": ["Agent", "Tool", "LLM"],
+  "status": "draft",
+  "collected_at": "2026-07-14T09:00:00+08:00",
+  "analyzed_at": "2026-07-14T10:00:00+08:00",
+  "organized_at": "2026-07-14T18:00:00+08:00"
+}

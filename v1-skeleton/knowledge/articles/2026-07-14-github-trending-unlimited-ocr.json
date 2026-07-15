@@ -1,0 +1,20 @@
+{
+  "id": "f2a3b4c5-d6e7-8901-fabc-2345678901bc",
+  "title": "baidu/Unlimited-OCR",
+  "url": "https://github.com/baidu/Unlimited-OCR",
+  "source": "github_trending",
+  "popularity": 14248,
+  "summary": "百度开源一次性长文本 OCR 方案，One-shot 全文档解析新范式。单次推理完成多页文档识别，支持 Transformers/vLLM/SGLang 三种推理后端。14k Star 验证需求，论文 arXiv 2606.23050，MIT 开源。",
+  "highlights": [
+    "One-shot 长文本 OCR 新范式，单次推理完成多页文档（14k Star）",
+    "支持 Transformers/vLLM/SGLang 三种推理后端",
+    "百度出品，学术论文 arXiv 2606.23050，代码 MIT 开源"
+  ],
+  "score": 6,
+  "score_reason": "OCR 技术突破，对文档处理场景有参考价值，但非知识库核心能力",
+  "tags": ["NLP", "Multi-modal"],
+  "status": "draft",
+  "collected_at": "2026-07-14T09:00:00+08:00",
+  "analyzed_at": "2026-07-14T10:00:00+08:00",
+  "organized_at": "2026-07-14T18:00:00+08:00"
+}

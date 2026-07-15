@@ -1,0 +1,20 @@
+{
+  "id": "d6e7f8a9-b0c1-2345-defa-6789012345fa",
+  "title": "cobusgreyling/loop-engineering",
+  "url": "https://github.com/cobusgreyling/loop-engineering",
+  "source": "github_trending",
+  "popularity": 7846,
+  "summary": "Loop Engineering — 用循环工程模式设计和编排 AI 编码 Agent。提供 7 个生产 Pattern（Daily Triage/PR Babysitter/CI Sweeper 等）及完整 CLI 工具链（loop-init/audit/cost/sync）。跨平台支持 Grok/Claude Code/Codex/OpenCode。7.9k Star，MIT 开源。",
+  "highlights": [
+    "7 个生产 Pattern（Daily Triage/PR Babysitter/CI Sweeper 等）（7.9k Star）",
+    "loop-init/loop-audit/loop-cost/loop-sync 全工具链",
+    "跨平台支持 Grok/Claude Code/Codex/OpenCode/GitHub Actions"
+  ],
+  "score": 6,
+  "score_reason": "Agent 编排方法论先驱，模式化思路值得参考，但偏方法论而非可落地工具",
+  "tags": ["Agent", "Tool"],
+  "status": "draft",
+  "collected_at": "2026-07-14T09:00:00+08:00",
+  "analyzed_at": "2026-07-14T10:00:00+08:00",
+  "organized_at": "2026-07-14T18:00:00+08:00"
+}

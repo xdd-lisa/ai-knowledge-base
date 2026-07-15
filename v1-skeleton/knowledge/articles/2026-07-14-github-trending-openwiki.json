@@ -1,0 +1,20 @@
+{
+  "id": "c5d6e7f8-a9b0-1234-cdef-5678901234ef",
+  "title": "langchain-ai/openwiki",
+  "url": "https://github.com/langchain-ai/openwiki",
+  "source": "github_trending",
+  "popularity": 11318,
+  "summary": "LangChain 出品的 AI Agent 文档生成 CLI，自动审计代码库生成并维护文档。内置 6 种 Connector（Git/Notion/Gmail/X/HN/WebSearch），支持 GitHub Actions/GitLab CI/Bitbucket Pipelines 一键集成。11k Star，MIT 开源。",
+  "highlights": [
+    "自动审计代码库生成维护文档，支持个人知识 Wiki（11k Star）",
+    "6 种本地 Connector（Git/Notion/Gmail/X/HN/WebSearch）",
+    "GitHub Actions/GitLab CI/Bitbucket Pipelines 一键 CI 集成"
+  ],
+  "score": 6,
+  "score_reason": "Agent 文档生成工具，Connector 架构思路值得借鉴，但功能与知识库有重叠",
+  "tags": ["Tool", "Agent", "LLM"],
+  "status": "draft",
+  "collected_at": "2026-07-14T09:00:00+08:00",
+  "analyzed_at": "2026-07-14T10:00:00+08:00",
+  "organized_at": "2026-07-14T18:00:00+08:00"
+}

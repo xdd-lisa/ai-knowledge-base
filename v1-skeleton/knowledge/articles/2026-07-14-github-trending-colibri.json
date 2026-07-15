@@ -1,0 +1,20 @@
+{
+  "id": "a3b4c5d6-e7f8-9012-abcd-3456789012cd",
+  "title": "JustVugg/colibri",
+  "url": "https://github.com/JustVugg/colibri",
+  "source": "github_trending",
+  "popularity": 12906,
+  "summary": "纯 C 实现的超轻量推理引擎，25GB 内存运行 744B GLM-5.2 MoE 模型。零依赖、CPU 流式推理，MTP 推测解码达 2.8 tok/forward。VRAM/RAM/Disk 三级存储分层，学习缓存自动预热。Apache 2.0 开源。",
+  "highlights": [
+    "纯 C 实现零依赖，25GB 内存运行 744B GLM-5.2 MoE（13k Star）",
+    "CPU 流式推理，MTP 推测解码达 2.8 tok/forward",
+    "VRAM/RAM/Disk 三级存储分层，学习缓存自动预热"
+  ],
+  "score": 6,
+  "score_reason": "MoE 推理工程化突破，适合私有化 LLM 部署参考，但非知识库直接组件",
+  "tags": ["LLM", "Infra"],
+  "status": "draft",
+  "collected_at": "2026-07-14T09:00:00+08:00",
+  "analyzed_at": "2026-07-14T10:00:00+08:00",
+  "organized_at": "2026-07-14T18:00:00+08:00"
+}

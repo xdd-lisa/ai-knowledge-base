@@ -1,72 +1,127 @@
-[
-  {
-    "title": "NousResearch/hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "source": "github_trending",
-    "popularity": 214548,
-    "summary": "NousResearch 开发的开源 AI 代理框架，支持多种 LLM 后端，提供自主任务执行和工具调用能力"
-  },
-  {
-    "title": "Significant-Gravitas/AutoGPT",
-    "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "source": "github_trending",
-    "popularity": 185522,
-    "summary": "让 AI 自主完成任务的智能代理框架，支持 GPT-4 驱动，可自动分解并执行复杂多步骤目标"
-  },
-  {
-    "title": "f/prompts.chat",
-    "url": "https://github.com/f/prompts.chat",
-    "source": "github_trending",
-    "popularity": 165681,
-    "summary": "ChatGPT 提示词社区，支持分享、发现和收藏 AI 提示词，开源可自托管保障隐私"
-  },
-  {
-    "title": "firecrawl/firecrawl",
-    "url": "https://github.com/firecrawl/firecrawl",
-    "source": "github_trending",
-    "popularity": 150637,
-    "summary": "面向 AI Agent 的网页抓取 API，支持搜索、爬取和数据提取，输出为 LLM 友好的 Markdown 格式"
-  },
-  {
-    "title": "langgenius/dify",
-    "url": "https://github.com/langgenius/dify",
-    "source": "github_trending",
-    "popularity": 148785,
-    "summary": "生产级 AI 应用开发平台，支持可视化编排 Agent 工作流，集成 RAG、MCP 和多种 LLM"
-  },
-  {
-    "title": "open-webui/open-webui",
-    "url": "https://github.com/open-webui/open-webui",
-    "source": "github_trending",
-    "popularity": 145369,
-    "summary": "用户友好的 AI 聊天界面，支持 Ollama 和 OpenAI API，可自部署并内置 RAG 和多模态功能"
-  },
-  {
-    "title": "langchain-ai/langchain",
-    "url": "https://github.com/langchain-ai/langchain",
-    "source": "github_trending",
-    "popularity": 141737,
-    "summary": "构建 LLM 应用的工程化框架，支持 Agent、RAG、链式调用和多模型集成，Python/TS 双语言"
-  },
-  {
-    "title": "rasbt/LLMs-from-scratch",
-    "url": "https://github.com/rasbt/LLMs-from-scratch",
-    "source": "github_trending",
-    "popularity": 48388,
-    "summary": "从零实现 ChatGPT 类大语言模型的 PyTorch 教程，逐行代码讲解 Transformer 架构训练全过程"
-  },
-  {
-    "title": "synthetic-sciences/openscience",
-    "url": "https://github.com/synthetic-sciences/openscience",
-    "source": "github_trending",
-    "popularity": 2388,
-    "summary": "开源 AI 科研工作台，7月发布即获近 2400 Star，面向科学研究的 AI Agent 协作平台"
-  },
-  {
-    "title": "simonlin1212/Vibe-Research",
-    "url": "https://github.com/simonlin1212/Vibe-Research",
-    "source": "github_trending",
-    "popularity": 796,
-    "summary": "个人投研 AI Agent，覆盖 A股/美股/港股的每日复盘、资讯雷达和个股数据分析"
-  }
-]
+{
+  "source": "github_trending",
+  "skill": "github-trending",
+  "collected_at": "2026-07-14T09:00:00+08:00",
+  "items": [
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "Hermes Agent — 自我进化 AI 代理框架，内置闭环学习机制自动创建技能，214k Star 验证 Agent 领域影响力，值得关注",
+      "stars": 214548,
+      "language": "Python",
+      "topics": ["ai", "agent", "llm"]
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "summary": "AutoGPT — 最早自主 AI 代理框架，演进为完整低代码代理构建平台，185k Star 行业标杆，适合快速原型",
+      "stars": 185522,
+      "language": "Python",
+      "topics": ["ai", "agent", "llm"]
+    },
+    {
+      "name": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "summary": "Prompts.chat — 全球最大开源提示词库，143k Star 被 Forbes 和顶级高校引用，Prompt Engineering 必看资源",
+      "stars": 165681,
+      "language": "TypeScript",
+      "topics": ["ai", "llm", "prompt-engineering"]
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "summary": "Firecrawl — 面向 AI Agent 的开源网页抓取 API，96% 网页覆盖 + P95 3.4s，输出 LLM 友好 Markdown，RAG 必备基础设施",
+      "stars": 150637,
+      "language": "TypeScript",
+      "topics": ["ai", "rag", "web-scraping"]
+    },
+    {
+      "name": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "summary": "Dify — 生产级 LLM 应用开发平台，可视化工作流 + RAG Pipeline + Agent 能力三位一体，148k Star 成熟度高",
+      "stars": 148785,
+      "language": "TypeScript",
+      "topics": ["ai", "rag", "agent", "llm"]
+    },
+    {
+      "name": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "summary": "Open WebUI — 自托管 AI 聊天界面事实标准，RAG + 多模态 + Agent 插件系统 + 企业级认证，145k Star 生态成熟",
+      "stars": 145369,
+      "language": "TypeScript",
+      "topics": ["ai", "rag", "llm", "multi-modal"]
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "summary": "LangChain — 业界最广泛 LLM 应用框架，142k Star 最大生态，RAG/Agent 组件是知识库建设的核心依赖",
+      "stars": 141737,
+      "language": "Python",
+      "topics": ["ai", "llm", "rag", "agent"]
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "summary": "Ponytail — 让 AI Agent 像资深工程师一样思考的开发者工具，6月发布即获 83k Star，YAGNI 哲学驱动",
+      "stars": 83221,
+      "language": "JavaScript",
+      "topics": ["ai-agents", "developer-tools", "llm", "prompt-engineering"]
+    },
+    {
+      "name": "rasbt/LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "summary": "LLMs-from-scratch — 从零实现类 ChatGPT 大语言模型的 PyTorch 教程，覆盖 Transformer 全架构训练，99k Star 经典",
+      "stars": 48388,
+      "language": "Python",
+      "topics": ["llm", "deep-learning", "nlp"]
+    },
+    {
+      "name": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "summary": "Unlimited-OCR — 百度开源的一次性长文本 OCR 方案，6月发布即获 14k Star，OCR 长文档识别新范式",
+      "stars": 14248,
+      "language": "Python",
+      "topics": ["ocr", "computer-vision", "deep-learning"]
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "summary": "Colibri — 纯 C 实现的超轻量推理引擎，25GB 内存运行 744B MoE 大模型，MoE 低成本推理新思路",
+      "stars": 12906,
+      "language": "C",
+      "topics": ["llm", "inference", "moe", "deep-learning"]
+    },
+    {
+      "name": "XiaomiMiMo/MiMo-Code",
+      "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+      "summary": "MiMo Code — 小米开源多模态代码 AI 平台，模型与 Agent 协同进化，12k Star 国产 AI 编码新势力",
+      "stars": 12084,
+      "language": "TypeScript",
+      "topics": ["ai", "ai-agents", "code-generation"]
+    },
+    {
+      "name": "langchain-ai/openwiki",
+      "url": "https://github.com/langchain-ai/openwiki",
+      "summary": "OpenWiki — LangChain 出品的 AI Agent 文档生成 CLI，自动审计代码库并维护文档，11k Star 开发者工具新星",
+      "stars": 11318,
+      "language": "TypeScript",
+      "topics": ["ai", "developer-tools", "documentation"]
+    },
+    {
+      "name": "cobusgreyling/loop-engineering",
+      "url": "https://github.com/cobusgreyling/loop-engineering",
+      "summary": "Loop Engineering — AI 编码 Agent 编排系统，用循环工程模式管理和优化 Agent 工作流，7.8k Star 新概念",
+      "stars": 7846,
+      "language": "JavaScript",
+      "topics": ["ai-agents", "devtools", "prompt-engineering"]
+    },
+    {
+      "name": "synthetic-sciences/openscience",
+      "url": "https://github.com/synthetic-sciences/openscience",
+      "summary": "OpenScience — 开源 AI 科研工作台，290+ 科研技能 + 30+ 科学数据库，7月发布即获 2.4k Star 科研自动化新方向",
+      "stars": 2388,
+      "language": "Python",
+      "topics": ["ai", "agent", "science"]
+    }
+  ]
+}

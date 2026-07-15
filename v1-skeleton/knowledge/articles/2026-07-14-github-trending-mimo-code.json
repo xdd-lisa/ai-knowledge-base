@@ -1,0 +1,20 @@
+{
+  "id": "b4c5d6e7-f8a9-0123-bcde-4567890123de",
+  "title": "XiaomiMiMo/MiMo-Code",
+  "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+  "source": "github_trending",
+  "popularity": 12084,
+  "summary": "小米开源终端 AI 编码助手，持久记忆 + 子 Agent 编排 + Workflow 引擎。SQLite FTS5 持久记忆跨会话保持项目深度理解，Compose 模式编排多 Agent 并行执行，Dream/Distill 自改进机制。12k Star，MIT 开源。",
+  "highlights": [
+    "SQLite FTS5 持久记忆系统，跨会话保持项目深度理解（12k Star）",
+    "Compose 模式 + Workflows 引擎，确定性脚本编排多 Agent 并行执行",
+    "Dream/Distill 自改进机制 — 从会话历史提取知识和重复工作流"
+  ],
+  "score": 7,
+  "score_reason": "国产 AI 编码新势力，持久记忆和 Workflow 引擎设计精良，知识库架构可参考其记忆系统",
+  "tags": ["Agent", "Tool", "LLM"],
+  "status": "draft",
+  "collected_at": "2026-07-14T09:00:00+08:00",
+  "analyzed_at": "2026-07-14T10:00:00+08:00",
+  "organized_at": "2026-07-14T18:00:00+08:00"
+}
