@@ -16,5 +16,17 @@
   "status": "draft",
   "collected_at": "2026-07-14T00:00:00+08:00",
   "analyzed_at": "2026-07-14T00:00:00+08:00",
-  "organized_at": "2026-07-14T18:00:00+08:00"
+  "organized_at": "2026-07-14T18:00:00+08:00",
+  "review": {
+    "dimensions": {
+      "popularity_base": 25,
+      "project_maturity": 16,
+      "info_completeness": 20,
+      "scarcity_value": 13,
+      "compliance_cleanliness": 10
+    },
+    "total_score": 84,
+    "grade": "normal",
+    "reviewed_at": "2026-07-14T18:00:00+08:00"
+  }
 }
